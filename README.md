@@ -36,6 +36,7 @@ A hands-on engineer bridging the gap between heavy mechanical fabrication and in
   <img src="aetherpulse_inside.jpg" width="45%" alt="AetherPulse Internal Electronics Management" />
 </p>
 
+* 📜 **View Source Code:** [SmartWatch_Code.ino](./SmartWatch_Code.ino)
 ### 🚀 Key Features
 * **Biometric Pulse Monitoring:** Real-time **Heart Rate (BPM)** sensing with a custom-coded graphical pulse-wave visualizer on a 3.5" TFT display.
 * **Fall Detection Logic:** Engineered a threshold-based algorithm using the **MPU6050 Accelerometer** to trigger multi-channel emergency alerts (Blynk Push + Automated Email).
