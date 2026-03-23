@@ -10,9 +10,6 @@ A hands-on engineer bridging the gap between heavy mechanical fabrication and in
 
 ![ATV Poster](atv_poster.png)
 
-### 📂 Project Documentation
-* 📑 **Read Technical Report:** [ATV_Kart_Final_Report.pdf](./ATV_Kart_Final_Report.pdf)
-
 ### ⚙️ v2.0 Upgrades: Terrain & Suspension
 * **Suspension Geometry:** Re-engineered the rigid frame to integrate **motorcycle shock absorbers**; calculated mounting angles to support dynamic passenger loads and improve stability on uneven surfaces.
 * **Terrain Adaptability:** Upgraded to large-diameter **ATV wheels**, significantly increasing ground clearance and enabling off-road functionality.
